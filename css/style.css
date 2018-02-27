@@ -33,6 +33,9 @@ h1 {
 {
   font-size: 21px;
 }
+.checkpoint {
+  background-color: blue;
+}
 
 .element {
   background-color: green;
