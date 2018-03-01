@@ -24,7 +24,7 @@ h1 {
   font-size: 2em;
 }
 
-.example, h3 {
+.example h3 {
   padding-top: 30px;
   /** text-align was missing a colon **/
   text-align: center
@@ -33,8 +33,9 @@ h1 {
 {
   font-size: 21px;
 }
-.checkpoint {
-  background-color:#00FF00;
+
+.element.checkpoint h3 {
+  background-color: #33FF55;
 }
 
 .element {
@@ -43,4 +44,3 @@ h1 {
   margin: 10px 0;
   width: 100%;
 }
-/** added closing bracket to .element **/
