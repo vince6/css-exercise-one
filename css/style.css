@@ -11,7 +11,7 @@ nav {
   margin-top: -10px;
   position: fixed;
   width: 100%;
-
+}
 
 section {
   margin: 0 auto;
@@ -35,7 +35,7 @@ h3.example {
 }
 
 .element {
-  background-color: #Green;
+  background-color: #FFFFFF;
   height: 100px;
   margin: 10px 0;
   width: 100%;
