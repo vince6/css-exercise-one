@@ -24,7 +24,7 @@ h1 {
   font-size: 2em;
 }
 
-.example h3 {
+h3.example {
   padding-top: 30px;
   /** text-align was missing a colon **/
   text-align: center
@@ -34,13 +34,13 @@ h1 {
   font-size: 21px;
 }
 
-.element.checkpoint {
-  background-color: #33FF55;
-}
-
 .element {
-  background-color: green;
+  background-color: #Green;
   height: 100px;
   margin: 10px 0;
   width: 100%;
+}
+
+div.element.checkpoint {
+  background-color: #0531FA;
 }
